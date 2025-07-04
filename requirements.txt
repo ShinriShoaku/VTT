@@ -1,0 +1,14 @@
+torch
+torchaudio
+transformers
+sounddevice
+numpy
+soundfile
+librosa
+noisereduce
+webrtcvad
+python-multipart
+uvicorn
+fastapi 
+pyngrok
+pyyaml
