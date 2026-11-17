@@ -1,0 +1,19 @@
+{
+  "dictionary": {
+    "name": "Dictionary",
+    "url": "https://github.com/ShinriShoaku/VTT/raw/refs/heads/main/Dictionary/openjtalk_dic.zip",
+    "version": "1.0.0"
+  },
+  "models": [
+    {
+      "model_name": "Liana",
+      "url": "https://raw.githubusercontent.com/ShinriShoaku/VTT/main/model/liana/liana.tar.gz",
+      "version": "1.2.0"
+    },
+    {
+      "model_name": "Klukai",
+      "url": "",
+      "version": ""
+    }
+  ]
+}
