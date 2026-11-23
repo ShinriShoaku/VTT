@@ -11,9 +11,9 @@
       "version": "1.2.0"
     },
     {
-      "model_name": "Klukai",
-      "url": "",
-      "version": ""
+      "model_name": "Alfa",
+      "url": "https://github.com/ShinriShoaku/VTT/releases/download/kokoro/kokoro.tar.gz",
+      "version": "1.0.0"
     }
   ]
 }
