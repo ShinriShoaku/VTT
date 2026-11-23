@@ -19,6 +19,11 @@
       "model_name": "Mailin",
       "url": "https://github.com/ShinriShoaku/VTT/releases/download/koharu-v1/koharu.tar.gz",
       "version": "1.0.0"
-    }    
+    },
+    {
+      "model_name": "Mutsuki",
+      "url": "https://github.com/ShinriShoaku/VTT/releases/download/mutsuki-v1/mutsuki.tar.gz",
+      "version": "1.0.0"
+    }
   ]
 }
