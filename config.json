@@ -29,6 +29,11 @@
       "model_name": "Klukai",
       "url": "https://github.com/ShinriShoaku/VTT/releases/download/klukai-v1/klukai.tar.gz",
       "version": "1.0.0"
+    },
+    {
+      "model_name": "Haruka",
+      "url": "https://github.com/ShinriShoaku/VTT/releases/download/haruka-v1/haruka.tar.gz",
+      "version": "1.0.0"
     }
   ]
 }
