@@ -5,10 +5,10 @@
       "iconUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/liana/hk416.png",
       "fileUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/liana/klukai.zip"
     },
-    "Klukai Pro": {
-      "displayName": "Klukai Advanced",
+    "Mutsuki": {
+      "displayName": "Mutsuki New Year",
       "iconUrl": "https://example.com/icons/klukai-pro.png",
-      "fileUrl": "https://example.com/models/klukai-pro.bin"
+      "fileUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/mutsuki.zip"
     },
     "Klukai Light": {
       "displayName": "Klukai Light",
