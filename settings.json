@@ -2,7 +2,7 @@
   "models": {
     "Klukai": {
       "displayName": "Klukai",
-      "iconUrl": "https://example.com/icons/klukai.png",
+      "iconUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/liana/hk416.png",
       "fileUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/liana/klukai.zip"
     },
     "Klukai Pro": {
