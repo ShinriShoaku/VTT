@@ -1,0 +1,29 @@
+{
+  "models": {
+    "Klukai": {
+      "displayName": "Klukai",
+      "iconUrl": "https://example.com/icons/klukai.png",
+      "fileUrl": "https://example.com/models/klukai.bin"
+    },
+    "Klukai Pro": {
+      "displayName": "Klukai Advanced",
+      "iconUrl": "https://example.com/icons/klukai-pro.png",
+      "fileUrl": "https://example.com/models/klukai-pro.bin"
+    },
+    "Klukai Light": {
+      "displayName": "Klukai Light",
+      "iconUrl": "https://example.com/icons/klukai-light.png",
+      "fileUrl": "https://example.com/models/klukai-light.bin"
+    },
+    "Klukai Vision": {
+      "displayName": "Klukai Vision",
+      "iconUrl": "https://example.com/icons/klukai-vision.png",
+      "fileUrl": "https://example.com/models/klukai-vision.bin"
+    },
+    "Klukai Code": {
+      "displayName": "Klukai Coder",
+      "iconUrl": "https://example.com/icons/klukai-code.png",
+      "fileUrl": "https://example.com/models/klukai-code.bin"
+    }
+  }
+}
