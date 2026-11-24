@@ -3,27 +3,32 @@
     "Klukai": {
       "displayName": "Klukai",
       "iconUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/liana/hk416.png",
-      "fileUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/liana/klukai.zip"
+      "fileUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/liana/klukai.zip",
+      "version": "1.0.0"
     },
     "Mutsuki": {
       "displayName": "Mutsuki New Year",
       "iconUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/mutsuki_new_year.png",
-      "fileUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/mutsuki.zip"
+      "fileUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/mutsuki.zip",
+      "version": "1.0.0"
     },
     "Klukai Light": {
       "displayName": "Klukai Light",
       "iconUrl": "https://example.com/icons/klukai-light.png",
-      "fileUrl": "https://example.com/models/klukai-light.bin"
+      "fileUrl": "https://example.com/models/klukai-light.bin",
+      "version": "1.0.0"
     },
     "Klukai Vision": {
       "displayName": "Klukai Vision",
       "iconUrl": "https://example.com/icons/klukai-vision.png",
-      "fileUrl": "https://example.com/models/klukai-vision.bin"
+      "fileUrl": "https://example.com/models/klukai-vision.bin",
+      "version": "1.0.0"
     },
     "Klukai Code": {
       "displayName": "Klukai Coder",
       "iconUrl": "https://example.com/icons/klukai-code.png",
-      "fileUrl": "https://example.com/models/klukai-code.bin"
+      "fileUrl": "https://example.com/models/klukai-code.bin",
+      "version": "1.0.0"
     }
   }
 }
