@@ -56,7 +56,7 @@
     },
     "Kanae": {
       "displayName": "Kanae",
-      "iconUrl": "hhttps://github.com/ShinriShoaku/VTT/blob/main/model/image/kanae.png",
+      "iconUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/image/kanae.png",
       "fileUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/kanae.zip",
       "version": "1.0.0"
     },
