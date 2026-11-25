@@ -12,22 +12,112 @@
       "fileUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/mutsuki.zip",
       "version": "1.0.0"
     },
-    "Klukai Light": {
-      "displayName": "Klukai Light",
-      "iconUrl": "https://example.com/icons/klukai-light.png",
-      "fileUrl": "https://example.com/models/klukai-light.bin",
+    "Alfa": {
+      "displayName": "Alfa",
+      "iconUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/image/alfa.png",
+      "fileUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/Alfa.zip",
       "version": "1.0.0"
     },
-    "Klukai Vision": {
-      "displayName": "Klukai Vision",
-      "iconUrl": "https://example.com/icons/klukai-vision.png",
-      "fileUrl": "https://example.com/models/klukai-vision.bin",
+    "Afla_skin2": {
+      "displayName": "Alfa skin 2",
+      "iconUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/image/ak-alpha.png",
+      "fileUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/Alfa_destroy.zip",
       "version": "1.0.0"
     },
-    "Klukai Code": {
-      "displayName": "Klukai Coder",
-      "iconUrl": "https://example.com/icons/klukai-code.png",
-      "fileUrl": "https://example.com/models/klukai-code.bin",
+    "Ayumi": {
+      "displayName": "Ayumi",
+      "iconUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/image/ayumi.png",
+      "fileUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/Ayumi.zip",
+      "version": "1.0.0"
+    },
+    "Chloe": {
+      "displayName": "Chloe",
+      "iconUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/image/chloe.png",
+      "fileUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/Chloe.zip",
+      "version": "1.0.0"
+    },
+    "Florence Skin 1": {
+      "displayName": "Florence 1",
+      "iconUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/image/florence_1.png",
+      "fileUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/florence_1.zip",
+      "version": "1.0.0"
+    },
+    "Florence Skin 2": {
+      "displayName": "Florence 2",
+      "iconUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/image/florence_2.png",
+      "fileUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/florence_2.zip",
+      "version": "1.0.0"
+    },
+    "Florence Skin 3": {
+      "displayName": "Florence 3",
+      "iconUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/image/florence_3.png",
+      "fileUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/florence_3.zip",
+      "version": "1.0.0"
+    },
+    "Kanae": {
+      "displayName": "Kanae",
+      "iconUrl": "hhttps://github.com/ShinriShoaku/VTT/blob/main/model/image/kanae.png",
+      "fileUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/kanae.zip",
+      "version": "1.0.0"
+    },
+    "Kasumi": {
+      "displayName": "Kasumi",
+      "iconUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/image/kasumi.png",
+      "fileUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/kasumi.zip",
+      "version": "1.0.0"
+    },
+    "klukai Skin 2": {
+      "displayName": "Klukai Skin 2",
+      "iconUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/image/klukai_2.png",
+      "fileUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/klukai_2.zip",
+      "version": "1.0.0"
+    },
+    "Koharu normal": {
+      "displayName": "Koharu noarmal",
+      "iconUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/image/koharu.png",
+      "fileUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/koharu_normal.zip",
+      "version": "1.0.0"
+    },
+    "Mailin": {
+      "displayName": "Mailin",
+      "iconUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/image/mailin.png",
+      "fileUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/mailin_normal.zip",
+      "version": "1.0.0"
+    },
+    "Mailin Suster": {
+      "displayName": "Mailin Suster",
+      "iconUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/image/mailin_2.png",
+      "fileUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/mailin_suster.zip",
+      "version": "1.0.0"
+    },
+    "Miharu": {
+      "displayName": "Miharu",
+      "iconUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/image/miharu.png",
+      "fileUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/miharu.zip",
+      "version": "1.0.0"
+    },
+    "Mutsuki": {
+      "displayName": "Mutsuki",
+      "iconUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/image/mutsuki.png",
+      "fileUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/mutsuki.zip",
+      "version": "1.0.0"
+    },
+    "Rita": {
+      "displayName": "Rita",
+      "iconUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/image/rita.png",
+      "fileUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/rita.zip",
+      "version": "1.0.0"
+    },
+    "Yuna": {
+      "displayName": "Yuna",
+      "iconUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/image/yuna.png",
+      "fileUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/yuna_normal.zip",
+      "version": "1.0.0"
+    },
+    "Yuzu Normal": {
+      "displayName": "Yuzu",
+      "iconUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/image/yuzu.png",
+      "fileUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/yuzu_normal.zip",
       "version": "1.0.0"
     }
   }
