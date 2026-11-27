@@ -6,12 +6,6 @@
       "fileUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/liana/klukai.zip",
       "version": "1.0.0"
     },
-    "Mutsuki": {
-      "displayName": "Mutsuki New Year",
-      "iconUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/mutsuki_new_year.png",
-      "fileUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/mutsuki.zip",
-      "version": "1.0.0"
-    },
     "Alfa": {
       "displayName": "Alfa",
       "iconUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/image/alfa.png",
@@ -96,7 +90,7 @@
       "fileUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/miharu.zip",
       "version": "1.0.0"
     },
-    "Mutsuki": {
+    "Mutsuki New Year": {
       "displayName": "Mutsuki New Year",
       "iconUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/mutsuki_new_year.png",
       "fileUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/mutsuki.zip",
