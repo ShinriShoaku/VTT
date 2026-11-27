@@ -97,9 +97,15 @@
       "version": "1.0.0"
     },
     "Mutsuki": {
+      "displayName": "Mutsuki New Year",
+      "iconUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/mutsuki_new_year.png",
+      "fileUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/mutsuki.zip",
+      "version": "1.0.0"
+    },
+    "Mutsuki": {
       "displayName": "Mutsuki",
       "iconUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/image/mutsuki.png",
-      "fileUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/mutsuki.zip",
+      "fileUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/mutsuki_home.zip",
       "version": "1.0.0"
     },
     "Rita": {
