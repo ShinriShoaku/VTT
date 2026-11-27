@@ -119,6 +119,18 @@
       "iconUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/image/yuzu.png",
       "fileUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/yuzu_normal.zip",
       "version": "1.0.0"
+    },
+     "Mari Normal": {
+      "displayName": "Mari",
+      "iconUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/image/mari_normal.png",
+      "fileUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/mari_normal.zip",
+      "version": "1.0.0"
+    },
+     "Mari Sport": {
+      "displayName": "Mari Sport",
+      "iconUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/image/mari_sport.png",
+      "fileUrl": "https://github.com/ShinriShoaku/VTT/blob/main/model/mari_sport.zip",
+      "version": "1.0.0"
     }
   }
 }
