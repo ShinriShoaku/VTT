@@ -37,7 +37,7 @@
     },
     {
       "model_name": "Blue Archive Batch",
-      "url": "https://github.com/ShinriShoaku/VTT/blob/main/BA/BA.tar.gz",
+      "url": "https://github.com/ShinriShoaku/VTT/releases/download/BA-v1/BA.tar.gz",
       "version": "1.0.0"
     }
   ]
