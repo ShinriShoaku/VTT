@@ -2,13 +2,13 @@
   "app_id": "ame.project.l2desktop",
   "channels": {
     "stable": {
-      "version_name": "7.5-liana",
-      "version_code": 10,
+      "version_name": "7.6-liana",
+      "version_code": 11,
       "force_update": false,
-      "apk_url": "https://github.com/ShinriShoaku/L2Desktop/releases/download/dev7.5/L2ADesktop-7.5-liana.apk",      
+      "apk_url": "https://github.com/ShinriShoaku/L2Desktop/releases/download/dev7.6/L2ADesktop-liana-v7.6.Default.apk",      
       "changelog": {
-        "id": "Menambahkan sistem rotasi model untuk pengalihan otomatis dan manajemen aktivitas",
-        "en": "Added model rotation support for automatic switching and activity management"
+        "id": "Perbaikan dukungan akselerasi NPU, penambahan batch model Blue Archive, serta command baru `me:tts` untuk pengecekan dan benchmark TTS.",
+        "en": "NPU acceleration fixes, addition of the Blue Archive model batch, and a new `me:tts` command for TTS checking and benchmarking."
       }
     }
   }
