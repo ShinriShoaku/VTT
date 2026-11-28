@@ -34,6 +34,11 @@
       "model_name": "Haruka",
       "url": "https://github.com/ShinriShoaku/VTT/releases/download/haruka-v1/haruka.tar.gz",
       "version": "1.0.0"
+    },
+    {
+      "model_name": "Blue Archive Batch",
+      "url": "https://github.com/ShinriShoaku/VTT/blob/main/BA/BA.tar.gz",
+      "version": "1.0.0"
     }
   ]
 }
